@@ -6,6 +6,7 @@ Md Jakiul Islam Jim
 
 Front-End Web Developer
 📍 Location: [Bogura, Bangladesh]
+
 Summary
 
 A passionate Front-End Web Developer with expertise in HTML, CSS, and Tailwind CSS. Dedicated to building responsive and visually appealing websites with modern UI/UX design principles. Always eager to learn and adapt to new technologies to enhance web development efficiency.
