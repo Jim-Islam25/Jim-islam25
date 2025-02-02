@@ -1,13 +1,13 @@
-(https://www.facebook.com/share/1ADG3FaL1L/)
+
 <h1>Hi there 👋, I'm Jim Islam</h1>
 #### Web Developer
 ![Web Developer]
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Skills: VUE JS / REACT / HTML / CSS
+Skills:  REACT / HTML / CSS
 
-- 🌱 I’m currently learning JavaScript 
+- 🌱 I’m currently learning VUE JS/JavaScript 
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about Web Development 
 
