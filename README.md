@@ -1,6 +1,6 @@
-<h1>Hi there 👋, I'm Jim Islam</h1>h1>
-#### Web Developer
-![Web Developer](https://www.facebook.com/share/18YaFyxwH4/)
+<h1>Hi there 👋, I'm Jim Islam</h1>
+
+![Web Developer]
 
 Md Jakiul Islam Jim
 
