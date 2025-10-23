@@ -18,7 +18,7 @@
 
 ### Get In Touch:
 - 📧 Reach out to me on [email](mailto:jakiul313@gmail.com)
-- 📱 Connect with me on [LinkedIn]([https://www.linkedin.com/in/md-jakiul-islam-jim-892943203/](https://www.linkedin.com/in/jim-islam-51040034a/))
+- 📱 Connect with me on [LinkedIn](https://www.linkedin.com/in/jim-islam-51040034a/)
   
 ## GitHub Stats:
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Jim-Islam25)
