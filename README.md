@@ -35,15 +35,17 @@ These projects reflect my love for **clean design**, **problem-solving**, and **
 ## 🌟 GitHub Snapshot
 
 ![Jim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jim-islam&show_icons=true&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jim-islam&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=jim-islam&theme=radical)
+ 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jim-islam&layout=compact&theme=radical)
 
 ---
 
 ## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jim-islam-51040034a/)
-[![Email](jakiul313@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jim-islam-51040034a/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jim-islam)  
+[![Email](mailto:jakiul313@gmail.com)
 
 ---
 
