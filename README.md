@@ -1,31 +1,51 @@
-## Hello, I'm Jim-Islam25! 👋
+# 👋 Hi, I’m Md Jakiul Islam Jim
 
-### About Me:
-- 🌍 I'm Md Jakiul Islam Jim, a passionate web developer based in Bogura, Rajshahi, Bangladesh.
-- 🚀 I have a keen interest in learning and building with web technologies.
-- 💻 Currently, I'm focused on front-end development with HTML, JavaScript, CSS, and Vue.
-- 📁 I have 6 public repositories showcasing my coding projects on GitHub.
+🌍 A passionate **Web Developer** from **Bogura, Rajshahi, Bangladesh**.  
+🚀 I love learning and building with modern web technologies that bring ideas to life.  
+💻 Currently focused on **Front-End Development** using **HTML, CSS, Tailwind CSS, JavaScript, and Vue.js**.  
+📁 My GitHub showcases several projects that reflect my curiosity, creativity, and growth as a developer.
 
-### My Coding Journey:
-- 📈 I have made 44 commits, showing consistent engagement with my projects.
-- 🛠️ Proficient in front-end technologies such as HTML, JavaScript, CSS, and Vue.
-- 🌐 Created repositories like "WBMI-BMR-Calculator" and "E-Commerce," reflecting my initiative in project development.
+---
 
-### GitHub Snapshot:
-- 👥 Proud to have 1 follower showing a growing network interested in my work.
-- ⭐ My repositories have received 2 stars from the GitHub community for recognition.
-- 🌟 Active developer focusing on front-end development, eager to learn, and passionate about building web applications.
+## 📚 My Coding Journey
 
-### Get In Touch:
-- 📧 Reach out to me on [email](mailto:jakiul313@gmail.com)
-- 📱 Connect with me on [LinkedIn](https://www.linkedin.com/in/jim-islam-51040034a/)
-  
-## GitHub Stats:
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Jim-Islam25)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jim-Islam25)
+📈 I’ve been actively contributing to my projects through consistent commits and continuous improvements.  
+🛠️ Skilled in **HTML, CSS, Tailwind CSS, JavaScript, and Vue.js**, with hands-on experience in building responsive and dynamic web applications.  
+🌐 Some of my featured repositories include:  
+- 🧮 **WBMI-BMR-Calculator** – A smart health tool for calculating BMI & BMR.  
+- 🛍️ **E-Commerce** – A modern shopping platform built with responsive design.  
+- 🧠 **Quiz Platform** – An interactive learning site where users can test knowledge through fun and engaging quizzes.  
 
-## Badges:
-  
-- [![trophy](https://github-profile-trophy.vercel.app/?username=Jim-Islam25)](https://github.com/Jim-Islam25)
-  
-### Let's Connect and Code Together! 🚀
+These projects reflect my love for **clean design**, **problem-solving**, and **continuous learning**.
+
+---
+
+## ⚙️ Tech Stack
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 🌟 GitHub Snapshot
+
+![Jim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jim-islam&show_icons=true&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jim-islam&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jim-islam&layout=compact&theme=radical)
+
+---
+
+## 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jim-islam-51040034a/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jim-islam)
+
+---
+
+💡 *“Code. Learn. Build. Repeat.”*  
+✨ Always curious. Always growing.
