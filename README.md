@@ -1,50 +1,18 @@
-# 👋 Hi, I’m Md Jakiul Islam Jim
+# 💫 About Me:
+👋 Hi, I’m Md Jakiul Islam Jim<br>🌍 A passionate Web Developer from Bogura, Rajshahi, Bangladesh.<br>🚀 I love learning and building with modern web technologies that bring ideas to life.<br>💻 Currently focused on Front-End Development using HTML, CSS, Tailwind CSS, JavaScript, and Vue.js.<br>📁 My GitHub showcases several projects that reflect my curiosity, creativity, and growth as a developer.<br><br>📚 My Coding Journey<br>📈 I’ve been actively contributing to my projects through consistent commits and continuous improvements.<br>🛠️ Skilled in HTML, CSS, Tailwind CSS, JavaScript, and Vue.js, with hands-on experience in building responsive and dynamic web applications.<br>🌐 Some of my featured repositories include:<br><br>🧮 WBMI-BMR-Calculator – A smart health tool for calculating BMI & BMR.<br>🛍️ E-Commerce – A modern shopping platform built with responsive design.<br>🧠 Quiz Platform – An interactive learning site where users can test knowledge through fun and engaging quizzes.<br>These projects reflect my love for clean design, problem-solving, and continuous learning.
 
-🌍 A passionate **Web Developer** from **Bogura, Rajshahi, Bangladesh**.  
-🚀 I love learning and building with modern web technologies that bring ideas to life.  
-💻 Currently focused on **Front-End Development** using **HTML, CSS, Tailwind CSS, JavaScript, and Vue.js**.  
-📁 My GitHub showcases several projects that reflect my curiosity, creativity, and growth as a developer.
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jim-islam-51040034a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jakiul313@gmail.com) 
 
-## 📚 My Coding Journey
-
-📈 I’ve been actively contributing to my projects through consistent commits and continuous improvements.  
-🛠️ Skilled in **HTML, CSS, Tailwind CSS, JavaScript, and Vue.js**, with hands-on experience in building responsive and dynamic web applications.  
-🌐 Some of my featured repositories include:  
-- 🧮 **WBMI-BMR-Calculator** – A smart health tool for calculating BMI & BMR.  
-- 🛍️ **E-Commerce** – A modern shopping platform built with responsive design.  
-- 🧠 **Quiz Platform** – An interactive learning site where users can test knowledge through fun and engaging quizzes.  
-
-These projects reflect my love for **clean design**, **problem-solving**, and **continuous learning**.
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=AEDDFF) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat-square&logo=WordPress&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=flat-square&logo=nuxt.js&logoColor=#00DC82) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Jim-islam25&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Jim-islam25&theme=shadow_green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jim-islam25&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Jim-islam25&icon=1&color=3)](https://visitcount.itsvg.in)
 
-## ⚙️ Tech Stack
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 🌟 GitHub Snapshot
-
-![Jim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jim-Islam25&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jim-Islam25&layout=compact&theme=radical)
-
----
-
-## 🤝 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jim-islam-51040034a/)  
-
-
----
-
-💡 *“Code. Learn. Build. Repeat.”*  
-✨ Always curious. Always growing.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
